@@ -1,7 +1,7 @@
 {
-    "name": "TrickyAbhi-Music",
+    "name": "Varina-music",
     "logo": "",
-    "description": "TrickyAbhi-Music allow you to stream music trought the telegram voice chat feature.",
+    "description": "varina-music allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music", 
         "voice chat", 
@@ -24,18 +24,18 @@
         },
         "OWNER_NAME": {
             "description": "fill YOUR USERNAME WITHOUT '@' .",
-            "value": "ABHIISH3K_xD",
+            "value": "s_e_l_f_i_s_h_x_7",
             "required": false
         },
         "ALIVE_NAME": {
             "description": "PUT YOUR BOT NAME .",
-            "value": "𝗛𝗘𝗥𝗢𝗫 𝗠𝗨𝗦𝗜𝗖",
+            "value": "𝐕𝐀𝐑𝐈𝐍𝐀 𝗠𝗨𝗦𝗜𝗖",
             "required": false
             
         },
          "BOT_NAME": {
             "description": "PUT YOUR BOT NAME.",
-            "value": "𝗛𝗘𝗥𝗢𝗫 𝗠𝗨𝗦𝗜𝗖",
+            "value": "𝐕𝐀𝐑𝐈𝐍𝐀 𝗠𝗨𝗦𝗜𝗖",
             "required": true
         },
          "DURATION_LIMIT": {
@@ -45,12 +45,12 @@
         },
         "GROUP_SUPPORT": {
             "description": "PUT YOUR group username without @.",
-            "value": "TrickyAbhii_Op",
+            "value": "INFINITY_BOTS_SUPPORT",
             "required": true
         },
         "UPDATES_CHANNEL": {
             "description": "PUT YOUR channel username without @.",
-            "value": "Techno_Trickop",
+            "value": "INFINITY_BOTZ",
             "required": true
         },
     
@@ -68,7 +68,7 @@
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space) .",
-            "value": "5124507794 5198403647",
+            "value": "1914579692",
             "required": true
         }
         
