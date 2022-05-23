@@ -20,7 +20,7 @@
   
 ### Heroku Deployment
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://selfishx.github.io/varina-music/)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/selfishx/varina-music/)
   
   
 ###  Okteto Deployment
